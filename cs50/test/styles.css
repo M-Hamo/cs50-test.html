@@ -3,3 +3,15 @@ h1 {
     color: blueviolet;
     text-shadow: chartreuse;
 }
+div {   
+    border: 3px dotted blue;
+    text-align: center;
+    background-color: teal;
+    width: max-content;
+    height: max-content;
+    margin: 30px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
